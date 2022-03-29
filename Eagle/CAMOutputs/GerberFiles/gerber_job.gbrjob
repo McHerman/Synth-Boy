@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-04-28T14:06:30Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.664,
+        "LayerNumber": 4,
+        "Name": {
+            "ProjectId": "SB V1.2"
+        },
+        "Owner": "Karl Krause <karl@krauses.dk>",
+        "Size": {
+            "X": 80,
+            "Y": 164
+        }
+    }
+}
