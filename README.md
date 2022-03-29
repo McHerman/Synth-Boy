@@ -9,3 +9,5 @@ The Synthboy is an analog 3 oscilator FM-enabled parafonic synthesizer, with a 4
 The whole thing is powered from a single protected USB-C input. 
 
 
+![SB V1 21024_1](https://user-images.githubusercontent.com/66793169/160615595-b54e9953-d9ca-4416-a522-721a8c13ad48.jpg)
+
